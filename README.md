@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
+## ☁️ Cloud Engineering with Azure and AWS
+
+- **[Cloud Engineering Academy](https://github.com/shbelay/Cloud-Engineering-Academy)**
+- **[Terraform on Azure](https://github.com/shbelay/Terraform-on-Azure)**
+
 <hr/>
 
 ## 🤳 Connect With Me
