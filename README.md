@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shbelay/tor-browser-threat-hunting/blob/main/README.md)**
 
 ## ☁️ Cloud Engineering with Azure and AWS
 
