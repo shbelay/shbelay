@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🖥️ Information Technology (IT) Support
 
-- **[Active Directory Lab](https://github.com/shbelay/)**
+- **[Active Directory Lab](https://github.com/shbelay/Active-Directory-Lab)**
 
 <hr/>
 
