@@ -17,6 +17,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Cloud Engineering Academy](https://github.com/shbelay/Cloud-Engineering-Academy)**
 - **[Terraform on Azure](https://github.com/shbelay/Terraform-on-Azure)**
 
+## 🖥️ Information Technology (IT) Support
+
+- **[Active Directory Lab](https://github.com/shbelay/)**
+
 <hr/>
 
 ## 🤳 Connect With Me
