@@ -5,12 +5,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/shbelay/vulnerability-management-project)**
-- **[Programmatic Vulnerability Remediations](https://github.com/shbelay/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/shbelay/vulnerability-management-project/blob/main/README.md)**
+- **[Programmatic Vulnerability Remediations](https://github.com/shbelay/programmatic-vulnerability-remediations/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shbelay/tor-browser-threat-hunting/blob/main/README.md)**
+- **[MyDFIR SOC Analyst Challenge (IN PROGRESS)](https://github.com/shbelay/soc-analyst-challenge/blob/main/README.md)**
 
 ## ☁️ Cloud Engineering with Azure and AWS
 
@@ -19,8 +20,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🖥️ Information Technology (IT) Support
 
-- **[Active Directory Lab](https://github.com/shbelay/Active-Directory-Lab)**
-
+- **[Active Directory Lab](https://github.com/shbelay/Active-Directory-Lab/blob/main/README.md)**
+- **[Technical Support Basics by IBM](https://github.com/shbelay/TechnicalSupportBasicsByIBM/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
