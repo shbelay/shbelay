@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shbelay/tor-browser-threat-hunting/blob/main/README.md)**
 - **[MyDFIR SOC Analyst Challenge](https://github.com/shbelay/soc-analyst-challenge/blob/main/README.md)**
 - **[Splunk Challenge: Hands-On SIEM Investigation](https://github.com/shbelay/SplunkChallenge/blob/main/README.md)**
+- **[Detection Engineering (**IN PROGRESS**)](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)** 
 
 ## ☁️ Cloud Engineering with Azure and AWS
 
