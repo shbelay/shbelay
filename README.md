@@ -2,6 +2,8 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## 🛡️ SOC Investigation Reports
+- **[Splunk Capstone](https://github.com/shbelay/Splunk-Capstone/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -13,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shbelay/tor-browser-threat-hunting/blob/main/README.md)**
 - **[MyDFIR SOC Analyst Challenge](https://github.com/shbelay/soc-analyst-challenge/blob/main/README.md)**
 - **[Splunk Challenge: Hands-On SIEM Investigation](https://github.com/shbelay/SplunkChallenge/blob/main/README.md)**
-- **[Detection Engineering (**IN PROGRESS**)](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)**
+- **[Detection Engineering](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)**
 - **[Phishing Analysis Challenge (**IN PROGRESS**)]()**
 
 ## ☁️ Cloud Engineering with Azure and AWS
