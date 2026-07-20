@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/shbelay/vulnerability-management-project/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations](https://github.com/shbelay/programmatic-vulnerability-remediations/blob/main/README.md)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🕵️ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shbelay/tor-browser-threat-hunting/blob/main/README.md)**
 - **[MyDFIR SOC Analyst Challenge](https://github.com/shbelay/soc-analyst-challenge/blob/main/README.md)**
