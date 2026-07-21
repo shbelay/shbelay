@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️ SOC Investigation Reports
 - **[Splunk Capstone](https://github.com/shbelay/Splunk-Capstone/blob/main/README.md)**
 - **[Microsoft XDR Incident 2341](https://github.com/shbelay/ID-2341/blob/main/README.md)**
+- **[Microsoft XDR Incident 2356](https://github.com/shbelay/ID_2356/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
