@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Microsoft XDR Incident 2356](https://github.com/shbelay/ID_2356/blob/main/README.md)**
 
 ## 🚩 Capture the Flag (CTF) Challenges
-- **[CTF 7 (Report Coming Soon)]()**
+- **[CTF 7](https://github.com/shbelay/CTF7/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
