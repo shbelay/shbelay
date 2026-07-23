@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚩 Capture the Flag (CTF) Challenges
 - **[CTF 7](https://github.com/shbelay/CTF7/blob/main/README.md)**
+- **[CTF 8 - Coming Soon]()**
 
 ## ⚠️ Vulnerability Management Projects
 
