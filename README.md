@@ -24,11 +24,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Detection Engineering](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)**
 - **[Phishing Analysis Challenge (**IN PROGRESS**)]()**
 
-## ☁️ Cloud Engineering with Azure and AWS
-
-- **[Cloud Engineering Academy](https://github.com/shbelay/Cloud-Engineering-Academy)**
-- **[Terraform on Azure](https://github.com/shbelay/Terraform-on-Azure)**
-
 ## 🖥️ Information Technology (IT) Support
 
 - **[Active Directory Lab](https://github.com/shbelay/Active-Directory-Lab/blob/main/README.md)**
