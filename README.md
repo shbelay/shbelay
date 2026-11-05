@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[CTF 8](https://github.com/shbelay/CTF8/blob/main/README.md)**
 
 ## 🎣 Phishing Analysis
-- **[DBS/POSB Digital Token Impersonation](IN PROGRESS)**
+- **[DBS/POSB Digital Token Impersonation](https://github.com/shbelay/DBS-POSB-Digital-Token-Impersonation/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
