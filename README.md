@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Splunk Challenge: Hands-On SIEM Investigation](https://github.com/shbelay/SplunkChallenge/blob/main/README.md)**
 - **[Wazuh Challenge - IN PROGRESS](https://github.com/shbelay/Wazuh_Challenge/blob/main/README.md)**
 - **[Detection Engineering](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)**
-- **[Phishing Analysis Challenge (**IN PROGRESS**)](https://github.com/shbelay/Phishing-Analysis-Challenge/blob/main/README.md)**
+- **[Potential Malware / Ransomware Activity (**IN PROGRESS**)]()**
 
 ## 🖥️ Information Technology (IT) Support
 
