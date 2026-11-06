@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Splunk Capstone](https://github.com/shbelay/Splunk-Capstone/blob/main/README.md)**
 - **[Microsoft XDR Incident 2341](https://github.com/shbelay/ID-2341/blob/main/README.md)**
 - **[Microsoft XDR Incident 2356](https://github.com/shbelay/ID_2356/blob/main/README.md)**
+- **[Ransomware Activity - Splunk](https://github.com/shbelay/MYDFIR-2026-00644/blob/main/README.md)**
 
 ## 🚩 Capture the Flag (CTF) Challenges
 - **[CTF 7](https://github.com/shbelay/CTF7/blob/main/README.md)**
