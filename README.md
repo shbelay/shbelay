@@ -28,6 +28,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Wazuh Challenge](https://github.com/shbelay/Wazuh_Challenge/blob/main/README.md)**
 - **[Detection Engineering](https://github.com/shbelay/Detection-Engineering/blob/main/README.md)**
 
+## <img width="32" height="32" alt="Azure Logo - Colored - 32x32 - zonalogo com" src="https://github.com/user-attachments/assets/fd1ef62a-ab48-4319-913e-5d6a48296afa" /> Azure Fundamentals
+
+- **[The Blueprint (IN PROGRESS)]()**
+
 ## 🖥️ Information Technology (IT) Support
 
 - **[Active Directory Lab](https://github.com/shbelay/Active-Directory-Lab/blob/main/README.md)**
